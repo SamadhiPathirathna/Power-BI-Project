@@ -5,6 +5,7 @@ Power BI Performance Dashboard
 
 This project is a Power BI Performance Dashboard. The dashboard visualizes key business metrics to track performance, trends, and insights.
 
+
 **Features**
 
 Interactive dashboards with filters and slicers
@@ -17,6 +18,7 @@ Time-based trend analysis to track progress over months
 
 DAX calculations for dynamic insights
 
+
 **Tools & Technologies**
 
 Power BI for dashboard creation
@@ -26,6 +28,7 @@ DAX (Data Analysis Expressions) for calculated measures
 Data modeling for structured analysis
 
 Excel/CSV as the data source
+
 
 **How to Use**
 
