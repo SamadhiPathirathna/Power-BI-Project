@@ -1,11 +1,11 @@
 # Power-BI-Project
 Power BI Performance Dashboard
 
-Overview
+**Overview**
 
 This project is a Power BI Performance Dashboard. The dashboard visualizes key business metrics to track performance, trends, and insights.
 
-Features
+**Features**
 
 Interactive dashboards with filters and slicers
 
@@ -17,7 +17,7 @@ Time-based trend analysis to track progress over months
 
 DAX calculations for dynamic insights
 
-Tools & Technologies
+**Tools & Technologies**
 
 Power BI for dashboard creation
 
@@ -27,7 +27,7 @@ Data modeling for structured analysis
 
 Excel/CSV as the data source
 
-How to Use
+**How to Use**
 
 Open the .pbix file in Power BI Desktop
 
