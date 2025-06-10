@@ -37,3 +37,8 @@ Open the .pbix file in Power BI Desktop
 Explore different visualizations & filters
 
 Analyze trends, KPIs, and insights from the data
+
+
+
+![1743084248571](https://github.com/user-attachments/assets/a61ae989-75a6-4f93-b584-9fe48df39f47)
+
