@@ -40,5 +40,6 @@ Analyze trends, KPIs, and insights from the data
 
 
 
-![1743084248571](https://github.com/user-attachments/assets/a61ae989-75a6-4f93-b584-9fe48df39f47)
+![powerbi1](https://github.com/user-attachments/assets/11372186-ef03-4a91-9d18-33a6aecde74d)
+
 
